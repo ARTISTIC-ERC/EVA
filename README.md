@@ -8,8 +8,11 @@ This is an alpha version of the software.
 
 _version_ = 1.1.0
 
-[![DOI](https://zenodo.org/badge/517703585.svg)](https://zenodo.org/badge/latestdoi/517703585)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7656328.svg)](https://doi.org/10.5281/zenodo.7656328)
 
+_article_ : ML. de Souza, M. Duquesnoy, M. Morcrette, A. A. Franco.
+Electrochemistry Visualization Tool to Support the Electrochemical Analysis of
+Batteries. _Batteries & Supercaps_, 2022. [10.1002/batt.202200378](10.1002/batt.202200378)
 
 Dependencies
 ========================================================
@@ -37,7 +40,16 @@ sudo dpkg -i ElectrochemistryVisualizationApplication.deb
 This project was developed in collaboration with the prototyping unit from 
 the LRCS (Amiens, FRANCE).
 
- 
+Fundings
+========================================================
+- This project has received funding from the European Union’s Horizon 2020 research
+and innovation programme under grant agreement No 957189. The project is part of
+BATTERY 2030+, the large-scale European research initiative for inventing the
+sustainable batteries of the future.
+- This project has received funding from the European Union’s Horizon 2020 research
+and innovation programme under grant agreement No 772873 (ARTISTIC project).
+
+  
  Licence
 ========================================================
 
