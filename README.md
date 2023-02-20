@@ -43,11 +43,10 @@ the LRCS (Amiens, FRANCE).
 Fundings
 ========================================================
 - This project has received funding from the European Union’s Horizon 2020 research
-and innovation programme under grant agreement No 957189. The project is part of
-BATTERY 2030+, the large-scale European research initiative for inventing the
-sustainable batteries of the future.
-- This project has received funding from the European Union’s Horizon 2020 research
 and innovation programme under grant agreement No 772873 (ARTISTIC project).
+- This project has received funding from the European Union’s Horizon 2020 research
+and innovation programme under grant agreement No 957189 (BIG MAP project). 
+The project is part of BATTERY 2030+, the large-scale European research initiative for inventing the sustainable batteries of the future.
 
   
  Licence
